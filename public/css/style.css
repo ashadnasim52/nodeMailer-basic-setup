@@ -1,0 +1,15 @@
+.wrapper {
+    /* width: 350px;
+    height: 500px;
+    border: 2px solid black; */
+    margin: 0 auto;
+    background: -webkit-linear-gradient(135deg, #2193b0 30%, #6dd5ed 90%);
+    background: linear-gradient(135deg, #2193b0 30%, #6dd5ed 90%);
+    position: relative;
+    padding: 100px;
+    color: #999;
+}
+
+.form_wrapper * {
+    box-sizing: border-box;
+}
